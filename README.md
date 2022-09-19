@@ -1,4 +1,3 @@
-# DingWenXuan_414join
 WELCOME TO MY LITTLE WORLD!
 ==
 Hello!I'm `DingWenxuan`.Nice to meet you！XD
