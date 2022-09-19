@@ -4,7 +4,7 @@ Hello!I'm `DingWenxuan`. Nice to meet you！XD:smiley_cat:
 - 
 I'm a `painter` from Inner Mongolia Autonomous Region
 who came to this school in order to have `a higher level of training in the art industry`.To fill my regret of not being able to study art and to follow my dream<br>
-I hope I can meet reliable and good students in `414` and be at the top of the profession! I also want to learn everything about this profession, such as game fundamentals and programming, and I want to create my own game world for the characters born under my pen.<br>
+I hope I can meet reliable and good students in `414` and be at the top of the profession! I also want to learn everything about this profession, such as game fundamentals and programming, and I want to create my own game world for the ·characters· born under my pen.<br>
 
 #  This is my favorite picture of my lovely cat. she is my angel!!!!
 ![image](https://raw.githubusercontent.com/moufan666/moufan666/main/images/IMG_20210511_122424.png)
