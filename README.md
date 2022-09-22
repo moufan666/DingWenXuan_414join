@@ -14,5 +14,8 @@ I hope I can meet reliable and good students in `414` and be at the top of the p
 This is my `bilibili account`, even though I hardly post anything here:(((((<br>
 ===
 [![](https://img.shields.io/badge/my-Bilibili-pink.svg)](https://space.bilibili.com/14388078?spm_id_from=333.1007.0.0)<br>
+:sparkles:These are some of my artworks:sparkles:
+====
 ![image](https://raw.githubusercontent.com/moufan666/moufan666/main/practice.png)
 I usually paint Impasto with `Impasto`. I personally prefer cool colors, but I need some warm colors in a lot of cool colors. so I painted her eyes pink, and I also used a lot of hidden color techniques, which is what I am particularly good at.
+![image](https://raw.githubusercontent.com/moufan666/moufan666/main/myself.png)
